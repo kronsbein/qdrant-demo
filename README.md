@@ -3,7 +3,7 @@
 
 This repository contains code for a demo utilising:
 
-- [Qdrant](https://tech.qdrant/) 
+- [Qdrant](https://qdrant.tech/) 
 - [Streamlit](https://streamlit.io)
 - [arxiv API (python wrapper)](https://pypi.org/project/arxiv/)
 
@@ -44,7 +44,7 @@ After starting the service, upload the data by running:
 
 ```
 # Init neural search
-pyhton -m init_neural_search
+python -m init_neural_search
 ```
 
 Finally, you can launch the application:
