@@ -1,0 +1,6 @@
+arxiv
+numpy
+pandas
+qdrant-client
+sentence-transformers
+streamlit
