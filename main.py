@@ -20,6 +20,8 @@ def run_demo():
         "- arxiv API (python wrapper) (https://pypi.org/project/arxiv/)"
     )
 
+    st.caption("Made by kronsbein (https://kronsbein.github.io)")
+
     # add text search 
     search = st.text_input(
         "Enter text to find similar publications",
