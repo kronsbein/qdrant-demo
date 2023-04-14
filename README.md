@@ -1,6 +1,5 @@
 # qdrant-demo
 
----
 
 This repository contains code for a demo utilising:
 
@@ -12,7 +11,6 @@ It provides a text similiarity search based on the *1000* most recent publicatio
 
 ## Requirements
 
----
 
 Install python requirements:
 
@@ -25,7 +23,6 @@ You also need [Docker](https://docs.docker.com/get-docker/) to run Qdrant.
 
 ## How to run
 
----
 
 Running this app locally requires to prepare the data first. 
 
